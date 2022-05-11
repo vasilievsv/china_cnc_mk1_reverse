@@ -7,9 +7,10 @@ AMAN CNC 3020
 
 
 
+
+![image](https://user-images.githubusercontent.com/32985830/167787470-9dba7e51-a8f2-46f6-b5c5-be3bc301bbfe.png)
+
 ![PIC18f4455](https://user-images.githubusercontent.com/32985830/164531700-a0408a74-de2b-4688-921c-9ef3e49a5e13.png)
-
-
 
 ![port_reverse](https://user-images.githubusercontent.com/32985830/164531766-6df50cf4-15da-4324-a6f3-ca9f52d2c3ad.png)
 
